@@ -1,3 +1,4 @@
 # GifsApp
 
 # @ViewChild
+# Pipe |
