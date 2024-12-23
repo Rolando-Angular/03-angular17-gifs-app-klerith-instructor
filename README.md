@@ -1,4 +1,4 @@
 # GifsApp
 
-# @ViewChild
-# Pipe |
+## Technologies
+### @ViewChild + Pipe | + HttpClient
