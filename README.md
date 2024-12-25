@@ -2,3 +2,4 @@
 
 ## Technologies
 ### @ViewChild + Pipe | + HttpClient + @Input
+### ngOnInit
