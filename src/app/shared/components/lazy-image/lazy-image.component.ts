@@ -3,6 +3,7 @@ import { Component, Input, OnInit } from "@angular/core";
 @Component({
   selector: 'shared-lazy-image',
   templateUrl: './lazy-image.component.html',
+  styleUrl: './lazy-image.component.css',
 })
 export class LazyImageComponent implements OnInit {
 
@@ -20,7 +21,9 @@ export class LazyImageComponent implements OnInit {
   }
 
   public onLoad(): void {
-    this.hasLoaded = true;
+    setTimeout(() => {
+      this.hasLoaded = true;
+    }, 100);
   }
 
 }
