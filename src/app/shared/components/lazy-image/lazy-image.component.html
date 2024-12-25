@@ -1,6 +1,6 @@
 <div class="d-flex justify-content-center">
   <!--
-  (load): event when the image finished loading
+  (load): event is called when the image is loaded
     -->
   <img class="card-img-top animate__animated animate__fadeIn" [src]="url" [alt]="alt" (load)="onLoad()"
     [ngStyle]="{display: hasLoaded ? '' : 'none'}" />

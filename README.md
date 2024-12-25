@@ -2,4 +2,4 @@
 
 ## Technologies
 ### @ViewChild + Pipe | + HttpClient + @Input
-### ngOnInit
+### ngOnInit + onLoad image event
