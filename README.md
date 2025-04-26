@@ -11,4 +11,4 @@ ng serve
 ```
 
 ### DEPLOYED ON GITHUB PAGES
-https://rolando-angular.github.io/02-angular17-gifs-app-klerith-instructor/
+https://rolando-angular.github.io/03-angular17-gifs-app-klerith-instructor/
